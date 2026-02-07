@@ -20,7 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "@descope/mcp-express": "^1.0.4",
-    "@descope/node-sdk": "^1.6.13",
+    "@descope/node-sdk": "^1.9.1",
     "@modelcontextprotocol/sdk": "^1.10.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
